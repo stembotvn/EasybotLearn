@@ -10,6 +10,8 @@ Welcome to EasybotLearn's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Bài 1 <baihoc/bai1>
+
 
 
 Indices and tables
